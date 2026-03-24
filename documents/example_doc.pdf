@@ -1,1 +1,12 @@
+Este es un documento de ejemplo para el mini-proyecto de Claude.
 
+Contenido de prueba:
+- Este proyecto demuestra integración con MCP
+- Incluye servidores, clientes, workflows y skills
+- Todo funciona en GitHub Codespaces
+
+Propósito:
+Este documento sirve para probar la herramienta read_document
+y el workflow de resumen de documentos.
+
+¡Gracias por usar este mini-proyecto!
